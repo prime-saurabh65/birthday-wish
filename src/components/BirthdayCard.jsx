@@ -157,7 +157,7 @@ function BirthdayCard({
               </p>
 
               <p className="mt-3 text-xl font-semibold text-[#6f5145]">
-                It&apos;s your day, Ricky!
+                It&apos;s your day, Ricky Sirrr!
               </p>
 
               <p className="mt-2 text-sm leading-5 text-[#927567]">
@@ -203,7 +203,7 @@ function BirthdayCard({
               <p>
                 Dear{" "}
                 <strong className="text-[#4e3c34]">
-                  Ricky Kumar
+                  Ricky Sirrr
                 </strong>
                 ,
               </p>
@@ -213,9 +213,8 @@ function BirthdayCard({
                 completed another year of being my{" "}
                 <strong className="text-[#4e3c34]">
                   teacher, elder brother, advisor,
-                  and part-time professional scolder.
+                  and part-time motivational speaker.
                 </strong>{" "}
-                😂
               </p>
 
               <p>
